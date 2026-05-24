@@ -1,7 +1,7 @@
 # EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
-AIM
+AIM:
 . To find the Zener Break down voltage regulation condition.
 
 APPARATUS:
@@ -29,9 +29,35 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+LINE CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+Diagram:
+
+![alt text](<Line Diagram.jpeg>) 
+
+Model Graph:
+
+![alt text](<Line Model Graph.jpeg>) 
+
+Tabulation:
+
+![alt text](<Line Tabulation.jpeg>)
+
+
+LOAD CHARACTERISTICS:
+
+Tabulation:
+
+![alt text](<Load Tabulation.jpeg>) 
+
+Diagram:
+
+![alt text](<Load Diagram.jpeg>) 
+
+Model Graph: 
+
+![alt text](<Load Model Graph.jpeg>)
+
 
 PRECAUTIONS:
 
